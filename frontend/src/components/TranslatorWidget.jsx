@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { translateText } from '../services/api';
-import AudioPlayer from './AudioPlayer';
 
 const LANGUAGES = [
     { code: 'en', name: 'English' },
